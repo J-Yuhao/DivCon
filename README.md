@@ -6,6 +6,11 @@
 
 ![Teaser figure](./figs/fig1.jpg)
 
+## Updates
+
+- **[2025-07-11]** Initial release of the official codebase.
+- **[2025-07-11]** DivCon is accepted by ECAI-2025!
+
 ## Dependencies
 In your environment where Python version is 3.8 or higher, or alternatively, create a new environment:
 
