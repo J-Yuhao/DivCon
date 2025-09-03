@@ -1,4 +1,4 @@
-# DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation
+# DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation [ECAI2025]
 
 <!-- [[Website]( )][[Demo]( )] -->
 
@@ -84,3 +84,4 @@ python eval_spatial.py --in_result detection_result/HRS_detect.p
 This project is built upon the foundational work from [**GLIGEN**](https://github.com/gligen/GLIGEN) and [**Attention-Refocusing**](https://github.com/Attention-Refocusing/attention-refocusing).
 
  
+
