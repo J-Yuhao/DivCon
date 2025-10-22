@@ -96,12 +96,13 @@ If you find this work useful, please cite:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2403.06400}, 
 }
-
+```
 
 ## Acknowledgements
 
 This project is built upon the foundational work from [**GLIGEN**](https://github.com/gligen/GLIGEN) and [**Attention-Refocusing**](https://github.com/Attention-Refocusing/attention-refocusing).
 
  
+
 
 
