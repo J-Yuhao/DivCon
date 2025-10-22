@@ -1,5 +1,8 @@
 # DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation [ECAI2025]
 
+This is the implementation of Text-to-Image framework [DivCon (arXiv)](https://arxiv.org/abs/2403.06400).
+
+
 <!-- [[Website]( )][[Demo]( )] -->
 
 <!-- [[Paper]( )] -->
@@ -79,9 +82,26 @@ python eval_counting.py --in_result detection_result/HRS_detect.p
 python eval_spatial.py --in_result detection_result/HRS_detect.p
 ```
 
+## 📖 Please cite us
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{jia2025divcondivideconquercomplex,
+      title={DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation}, 
+      author={Yuhao Jia and Wenhan Tan},
+      year={2025},
+      eprint={2403.06400},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2403.06400}, 
+}
+
+
 ## Acknowledgements
 
 This project is built upon the foundational work from [**GLIGEN**](https://github.com/gligen/GLIGEN) and [**Attention-Refocusing**](https://github.com/Attention-Refocusing/attention-refocusing).
 
  
+
 
