@@ -87,14 +87,14 @@ python eval_spatial.py --in_result detection_result/HRS_detect.p
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{jia2025divcondivideconquercomplex,
-      title={DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation}, 
-      author={Yuhao Jia and Wenhan Tan},
-      year={2025},
-      eprint={2403.06400},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2403.06400}, 
+@inproceedings{jia2025divcon,
+  author    = {Yuhao Jia and Wenhan Tan},
+  title     = {DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation},
+  booktitle = {Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025)},
+  year      = {2025},
+  publisher = {IOS Press},
+  doi       = {10.3233/FAIA251298},
+  pages     = {4081--4088}
 }
 ```
 
@@ -103,6 +103,7 @@ If you find this work useful, please cite:
 This project is built upon the foundational work from [**GLIGEN**](https://github.com/gligen/GLIGEN) and [**Attention-Refocusing**](https://github.com/Attention-Refocusing/attention-refocusing).
 
  
+
 
 
 
