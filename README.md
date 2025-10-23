@@ -11,6 +11,7 @@ This is the implementation of Text-to-Image framework [DivCon (ECAI2025 Proceedi
 
 ## Updates
 
+- **[2025-10-23]** DivCon is officially published at ECAI-2025 Proceedings, you can visit the paper [here](https://ebooks.iospress.nl/doi/10.3233/FAIA251298).
 - **[2025-07-11]** Initial release of the official codebase.
 - **[2025-07-11]** DivCon is accepted by ECAI-2025!
 
@@ -103,6 +104,7 @@ If you find this work useful, please cite:
 This project is built upon the foundational work from [**GLIGEN**](https://github.com/gligen/GLIGEN) and [**Attention-Refocusing**](https://github.com/Attention-Refocusing/attention-refocusing).
 
  
+
 
 
 
