@@ -1,6 +1,6 @@
 # DivCon: Divide and Conquer for Complex Numerical and Spatial Reasoning in Text-to-Image Generation [ECAI2025]
 
-This is the implementation of Text-to-Image framework [DivCon (arXiv)](https://arxiv.org/abs/2403.06400).
+This is the implementation of Text-to-Image framework [DivCon (ECAI2025 Proceedings)](https://ebooks.iospress.nl/doi/10.3233/FAIA251298).
 
 
 <!-- [[Website]( )][[Demo]( )] -->
@@ -103,6 +103,7 @@ If you find this work useful, please cite:
 This project is built upon the foundational work from [**GLIGEN**](https://github.com/gligen/GLIGEN) and [**Attention-Refocusing**](https://github.com/Attention-Refocusing/attention-refocusing).
 
  
+
 
 
 
